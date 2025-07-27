@@ -1,5 +1,5 @@
-<h3 align="center">👋Hi! I'am Alfi Husaeni</h3>
-<h6 align="center">Front End Developer</h6>
+<h2 align="center">👋Hi! I'am Alfi Husaeni</h2>
+<h5 align="center">Front End Developer</h5>
 
 ###
 
