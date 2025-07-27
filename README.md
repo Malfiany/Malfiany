@@ -1,9 +1,9 @@
 <h1 align="center">👋Hi! I'am Alfi Husaeni</h1>
 <h3 align="center">Front End Developer</h3>
 
-###
+##
 
-<p align="left">🎓 I am an undergraduate student of Informatics Engineering.<br>📚 I'm currently learning library Javascript Reactjs, Vue, & Angular<br>Looking for a front-end developer? Let's discuss how we can collaborate. Please feel free to contact me.</p>
+<p align="left">🎓 I am an undergraduate student of Informatics Engineering.<br>📚 I'm currently learning library Javascript Reactjs, Vue, & Angular<br><br>Looking for a front-end developer? Let's discuss how we can collaborate. Please feel free to contact me.</p>
 
 ###
 
